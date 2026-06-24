@@ -1,0 +1,36 @@
+# Environment
+.env
+.env.local
+.env.production
+*.env
+!*.env.example
+!*.env.production.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Data
+backend/uploads/
+backend/data/
+backend/*.db
+*.faiss
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log

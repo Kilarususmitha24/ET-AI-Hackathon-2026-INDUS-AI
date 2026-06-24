@@ -1,0 +1,60 @@
+INDUS-AI INDUSTRIAL KNOWLEDGE DOCUMENT
+Air Compressor C-204 Inspection Report
+Document ID: INS-C204-2024-Q2
+Category: Inspection
+
+EQUIPMENT: Air Compressor C-204
+Type: Rotary Screw Compressor
+Location: Utility Building, Level 2
+Inspection Date: 2024-06-10
+Inspector: J. Martinez, Certified API 618 Inspector
+
+INSPECTION FINDINGS:
+
+1. AIR FILTER SYSTEM
+Status: NEEDS ATTENTION
+Finding: Primary air filter 80% clogged, secondary filter at 60%
+Recommendation: Replace both air filters immediately
+Priority: HIGH
+Estimated downtime: 2 hours
+
+2. OIL SYSTEM
+Status: ACCEPTABLE
+Oil level: Normal (mid-sight-glass)
+Oil analysis: Within specification, TAN 0.8 mg KOH/g
+Next oil change: 1500 hours remaining
+
+3. COOLING SYSTEM
+Status: NEEDS ATTENTION
+Finding: Cooling fins partially blocked with debris
+Discharge temperature: 95°C (alarm threshold: 90°C)
+Recommendation: Clean cooling fins, verify fan operation
+Priority: HIGH
+
+4. SAFETY VALVES
+Status: COMPLIANT
+Relief valve RV-204 tested and certified per ASME Section VIII
+Set pressure: 150 psig, tested at 153 psig
+
+5. VIBRATION ANALYSIS
+Status: ACCEPTABLE
+Motor bearing: 2.1 mm/s (limit: 4.5 mm/s)
+Compressor bearing: 2.8 mm/s
+
+REGULATORY COMPLIANCE:
+- API 618: Reciprocating Compressors - COMPLIANT
+- OSHA 1910.147: LOTO procedures documented - COMPLIANT
+- ISO 45001: Safety documentation - PARTIAL (training records need update)
+
+INCIDENT REFERENCE:
+2024-05-22: Thermal shutdown at 95°C due to clogged air filter reducing cooling efficiency.
+Root cause: Deferred filter replacement beyond scheduled interval.
+Corrective action: Filters replaced, cooling fins cleaned, PM schedule updated.
+
+MAINTENANCE RECOMMENDATIONS:
+1. Replace air filters (Priority: HIGH, 2h downtime)
+2. Clean cooling system (Priority: HIGH, 1h downtime)
+3. Schedule oil analysis in 30 days (Priority: MEDIUM)
+4. Update operator training records (Priority: MEDIUM)
+
+NEXT INSPECTION DUE: 2024-09-10

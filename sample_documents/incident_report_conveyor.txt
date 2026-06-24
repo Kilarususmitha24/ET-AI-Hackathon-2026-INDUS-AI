@@ -1,0 +1,55 @@
+INDUS-AI INDUSTRIAL KNOWLEDGE DOCUMENT
+Incident Report - Conveyor Belt Failure
+Document ID: INC-CV102-2024
+Category: Incident
+
+INCIDENT SUMMARY:
+Date: 2024-04-08 14:30
+Location: Packaging Line 2
+Equipment: Conveyor System CV-102
+Severity: MEDIUM
+Reported by: Shift Supervisor A. Kumar
+
+DESCRIPTION:
+During peak production shift, Conveyor CV-102 experienced sudden belt slippage
+causing material spillage and production stoppage. Emergency stop was activated.
+No injuries reported. Production downtime: 3.5 hours.
+
+SYMPTOMS OBSERVED:
+- Belt tracking deviation to drive side
+- Unusual squealing noise 2 hours prior to failure
+- Belt tension visibly reduced
+- Spillage at transfer point TP-102
+
+ROOT CAUSE ANALYSIS:
+Primary: Belt tension loss due to worn tensioner assembly
+Contributing factors:
+1. Tensioner not inspected during last PM (overdue by 2 weeks)
+2. Increased load from production ramp-up
+3. Roller bearing wear on idler station IS-102C
+
+CORRECTIVE ACTIONS:
+1. Replaced belt tensioner assembly
+2. Replaced worn idler roller bearings (IS-102A, IS-102C)
+3. Adjusted belt tracking and tension to specification
+4. Updated PM checklist to include tensioner inspection
+
+PREVENTIVE MEASURES:
+- Add belt tension measurement to weekly inspection
+- Install belt slip detection sensor
+- Reduce maximum load during ramp-up periods
+
+REGULATORY IMPACT:
+- OSHA 1910.147: LOTO verified during repair - COMPLIANT
+- ISO 45001: Incident investigation completed within 48 hours - COMPLIANT
+- No EPA reportable quantities involved
+
+RELATED EQUIPMENT:
+- Motor M-102 (5 HP)
+- Drive pulley DP-102
+- Belt: 48" wide, 3-ply rubber
+
+MAINTENANCE RECOMMENDATION:
+Inspect all conveyor systems for similar tensioner wear.
+Priority: MEDIUM
+Estimated inspection time: 1.5 hours per conveyor

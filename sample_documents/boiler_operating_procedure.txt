@@ -1,0 +1,55 @@
+INDUS-AI INDUSTRIAL KNOWLEDGE DOCUMENT
+Boiler B-301 Operating Procedure
+Document ID: SOP-B301-2024
+Category: Procedure
+
+EQUIPMENT: Industrial Boiler B-301
+Type: Water Tube Boiler, 500 HP
+Design Pressure: 250 psig
+Location: Power House
+
+STANDARD OPERATING PROCEDURE:
+
+STARTUP SEQUENCE:
+1. Verify all safety interlocks functional
+2. Check water level in sight glass (normal: 50-75%)
+3. Open feedwater valve FW-301
+4. Purge combustion chamber for 5 minutes (4 volume changes minimum)
+5. Ignite pilot burner, verify flame detection
+6. Gradually increase firing rate, monitor steam pressure
+7. Target operating pressure: 200 psig
+
+SHUTDOWN SEQUENCE:
+1. Reduce firing rate gradually over 30 minutes
+2. Maintain water level during cooldown
+3. Close fuel supply valves
+4. Lockout per OSHA 1910.147 before internal inspection
+
+PREVENTIVE MAINTENANCE:
+- Daily: Blowdown bottom blow valves, check flame scanner
+- Weekly: Test low water cutoff, inspect burner assembly
+- Monthly: Water treatment analysis, safety valve bench test
+- Annually: Internal inspection per API 510, tube thickness measurement
+
+PRESSURE VESSEL COMPLIANCE (API 510):
+Last inspection: 2024-01-15
+Next inspection due: 2025-01-15
+Inspector: State Authorized Inspector #4521
+Findings: Minor tube scaling, cleaned during outage
+
+ENVIRONMENTAL (EPA 40 CFR):
+- NOx emissions: 45 ppm (limit: 50 ppm) - COMPLIANT
+- CO emissions: 80 ppm (limit: 100 ppm) - COMPLIANT
+- Continuous emissions monitoring system (CEMS) operational
+
+SAFETY REQUIREMENTS:
+- NFPA 85: Boiler and Combustion Systems Hazards Code
+- Confined space entry permit required for furnace inspection
+- Hot work permit for welding repairs
+
+TROUBLESHOOTING:
+Low steam pressure: Check fuel supply, burner condition, feedwater temperature
+High stack temperature: Clean fire-side surfaces, check excess air ratio
+Water level fluctuations: Check feedwater pump, blowdown valve seating
+
+EMERGENCY: Boiler trip on high pressure - DO NOT reset until cause identified

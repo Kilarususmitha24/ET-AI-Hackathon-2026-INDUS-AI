@@ -1,0 +1,50 @@
+INDUS-AI INDUSTRIAL KNOWLEDGE DOCUMENT
+Pump P-101 Maintenance Manual
+Document ID: MNT-P101-2024
+Category: Maintenance
+
+EQUIPMENT: Centrifugal Pump P-101
+Location: Process Area A, Unit 3
+Manufacturer: FlowTech Industries
+Model: FT-CP-500
+
+PREVENTIVE MAINTENANCE SCHEDULE:
+1. Weekly: Check bearing temperature (max 75°C), verify lubrication oil level
+2. Monthly: Inspect mechanical seal for leakage, check vibration levels (ISO 10816 limit: 4.5 mm/s)
+3. Quarterly: Replace oil filter, inspect impeller for wear, calibrate pressure sensors
+4. Annually: Complete bearing replacement, shaft alignment check, performance test
+
+LUBRICATION REQUIREMENTS:
+- Bearing housing: ISO VG 68 turbine oil
+- Grease fittings: Lithium complex grease NLGI Grade 2
+- Oil change interval: 2000 operating hours
+
+SAFETY PROCEDURES (OSHA 1910.147 Lockout/Tagout):
+Before any maintenance on Pump P-101:
+1. Notify control room of planned maintenance
+2. Isolate electrical supply at MCC Panel 3A
+3. Close suction valve V-101A and discharge valve V-101B
+4. Apply lockout devices and tags to all energy isolation points
+5. Verify zero energy state with pressure gauge reading 0 psig
+6. Use appropriate PPE: safety glasses, gloves, steel-toe boots
+
+REGULATORY COMPLIANCE:
+- OSHA 1910.147: Energy Control Program compliance required
+- API 610: Centrifugal Pump Standard for Petroleum Industry
+- ISO 45001: Occupational Health and Safety Management
+
+INCIDENT HISTORY:
+2024-03-15: Excessive vibration detected during peak load. Root cause: bearing wear due to insufficient lubrication. Corrective action: bearings replaced, lubrication schedule updated.
+
+TROUBLESHOOTING GUIDE:
+Symptom: High vibration
+- Check bearing condition and lubrication
+- Verify shaft alignment
+- Inspect impeller for damage or imbalance
+
+Symptom: Low flow rate
+- Check for clogged suction strainer
+- Verify impeller wear
+- Check motor RPM
+
+CONTACT: Maintenance Department ext. 4521
